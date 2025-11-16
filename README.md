@@ -12,6 +12,7 @@
 * **sanxiaojijiaben**is where I put readme on the Home Page.
 * **2025-Geek**is the warehouse I copied,I hope they approve my merger request.
 * **first**is the first warehouse I creat.It's meaningful for me.I don't want to delete it even if I don't use it.
+* **picture**was created by me to build the gallery.
 <!--
 **sanxiaojijiaben404/sanxiaojijiaben404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
